@@ -1,0 +1,14 @@
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\bin\Debug\net10.0\Actividad_3-PerfilProfesional.exe
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\bin\Debug\net10.0\Actividad_3-PerfilProfesional.deps.json
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\bin\Debug\net10.0\Actividad_3-PerfilProfesional.runtimeconfig.json
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\bin\Debug\net10.0\Actividad_3-PerfilProfesional.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\bin\Debug\net10.0\Actividad_3-PerfilProfesional.pdb
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\Actividad_3-PerfilProfesional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\Actividad_3-PerfilProfesional.AssemblyInfoInputs.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\Actividad_3-PerfilProfesional.AssemblyInfo.cs
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\Actividad_3-PerfilProfesional.csproj.CoreCompileInputs.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\Actividad_3-PerfilProfesional.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\refint\Actividad_3-PerfilProfesional.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\Actividad_3-PerfilProfesional.pdb
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\Actividad_3-PerfilProfesional.genruntimeconfig.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\DiploDotNET\Actividad_3-PerfilProfesional\obj\Debug\net10.0\ref\Actividad_3-PerfilProfesional.dll
