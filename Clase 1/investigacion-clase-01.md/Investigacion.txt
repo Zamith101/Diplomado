@@ -1,0 +1,59 @@
+1. ¿Qué es una variable y qué tipos de datos existen?
+Una variable es como una pequeña caja etiquetada en la memoria de tu computadora. 
+En esa caja guardas un valor (un número, un nombre, una fecha) para poder usarlo o modificarlo más adelante en tu programa.
+
+En lenguajes como C# (.NET), que son de tipado fuerte, debes especificar el "tipo de objeto" que vas a guardar en esa caja. Los tipos de datos más comunes son:
+
+int (Enteros): Números sin decimales. Ejemplo: 25, -10, 0.
+double / decimal (Decimales): Números con punto decimal. Ejemplo: 19.99, 3.1416. En .NET, decimal es el preferido para transacciones financieras por su alta precisión.
+string (Texto): Cadenas de caracteres encerradas en comillas dobles. Ejemplo: "Hola, .NET".
+char (Carácter): Un único carácter encerrado en comillas simples. Ejemplo: 'A', '9'.
+bool (Booleanos): Solo tiene dos valores posibles: true (verdadero) o false (falso).
+
+2. Diferencia entre "25" (texto) y 25 (número)
+Aunque visualmente se parezcan, para la computadora son mundos completamente diferentes:
+"25" (Texto / String):
+Tipo de dato: string.
+Propósito: Representar texto, etiquetas, nombres o códigos que no requieren cálculos.
+Operaciones: No puedes realizar operaciones aritméticas directamente (restar, multiplicar, dividir).
+Almacenamiento: Se guarda como una secuencia de caracteres individuales ('2' y '5').
+25 (Número / Int):
+Tipo de dato: int.
+Propósito: Representar cantidades numéricas reales.
+Operaciones: Puedes realizar cualquier operación matemática.
+Almacenamiento: Se guarda como un valor binario numérico directo.
+
+
+3. ¿Qué pasa si sumas "10" + "20"? ¿Y si sumas 10 + 20?
+El operador + se comporta de forma diferente según el tipo de datos que esté procesando:
+
+Caso A: "10" + "20" (Texto)
+Ocurre una concatenación. La computadora junta ambos textos uno al lado del otro.
+Resultado: "1020" (un nuevo texto, no el número mil veinte).
+
+Caso B: 10 + 20 (Números)
+Ocurre una adición matemática.
+Resultado: 30 (el número treinta).
+
+
+4. ¿Qué significa "convertir o castear" un dato?
+Significa cambiar el tipo de dato de un valor a otro. En programación se divide principalmente en dos conceptos:
+Casteo (Casting): Es la conversión entre tipos compatibles (generalmente numéricos).
+Ejemplo: Convertir un número con decimales (double) a entero (int). Al hacerlo, el compilador simplemente "corta" los decimales.
+C#
+double precio = 19.99;
+int precioEntero = (int)precio; // El resultado será 19
+Conversión: Es cuando transformas tipos de datos que no son directamente compatibles (como un texto a un número).
+Ejemplo: Convertir el texto "100" al número entero 100 usando herramientas de .NET como int.Parse() o Convert.ToInt32().
+
+5. ¿Qué pasa si el usuario escribe letras en un campo numérico en .NET?
+Si tu programa espera un número (por ejemplo, la edad) y el usuario escribe "veinticinco" o "abc", 
+e intentas convertirlo directamente usando int.Parse(), ocurrirá lo siguiente:
+
+
+Excepción (Crash): El programa lanzará un error en tiempo de ejecución llamado FormatException. 
+Si no controlas este error, tu aplicación se cerrará inesperadamente (se va a caer).
+
+La solución profesional en .NET: Para evitar que la app se rompa, los desarrolladores usamos el método seguro int.TryParse().
+Este método intenta hacer la conversión; si tiene éxito, te devuelve el número, y si el usuario escribió letras,
+en lugar de romper la aplicación, simplemente devuelve un false para que puedas mostrar un mensaje amigable.
