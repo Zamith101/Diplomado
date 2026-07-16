@@ -1,0 +1,14 @@
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\bin\Debug\net9.0\Interpolacion.exe
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\bin\Debug\net9.0\Interpolacion.deps.json
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\bin\Debug\net9.0\Interpolacion.runtimeconfig.json
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\bin\Debug\net9.0\Interpolacion.dll
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\bin\Debug\net9.0\Interpolacion.pdb
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\Interpolacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\Interpolacion.AssemblyInfoInputs.cache
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\Interpolacion.AssemblyInfo.cs
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\Interpolacion.csproj.CoreCompileInputs.cache
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\Interpolacion.dll
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\refint\Interpolacion.dll
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\Interpolacion.pdb
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\Interpolacion.genruntimeconfig.cache
+C:\Users\SALA 2\Desktop\Clase_2\Interpolacion\obj\Debug\net9.0\ref\Interpolacion.dll

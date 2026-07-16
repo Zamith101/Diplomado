@@ -1,0 +1,14 @@
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\bin\Debug\net9.0\Ejemplo1Clase2.exe
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\bin\Debug\net9.0\Ejemplo1Clase2.deps.json
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\bin\Debug\net9.0\Ejemplo1Clase2.runtimeconfig.json
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\bin\Debug\net9.0\Ejemplo1Clase2.dll
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\bin\Debug\net9.0\Ejemplo1Clase2.pdb
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\Ejemplo1Clase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\Ejemplo1Clase2.AssemblyInfoInputs.cache
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\Ejemplo1Clase2.AssemblyInfo.cs
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\Ejemplo1Clase2.csproj.CoreCompileInputs.cache
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\Ejemplo1Clase2.dll
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\refint\Ejemplo1Clase2.dll
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\Ejemplo1Clase2.pdb
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\Ejemplo1Clase2.genruntimeconfig.cache
+C:\Users\SALA 2\Desktop\Clase_2\Ejemplo1Clase2\obj\Debug\net9.0\ref\Ejemplo1Clase2.dll
