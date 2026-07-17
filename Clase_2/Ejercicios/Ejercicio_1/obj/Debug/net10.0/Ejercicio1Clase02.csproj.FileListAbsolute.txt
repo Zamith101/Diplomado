@@ -1,0 +1,14 @@
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio1Clase02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio1Clase02.AssemblyInfoInputs.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio1Clase02.AssemblyInfo.cs
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio1Clase02.csproj.CoreCompileInputs.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio1Clase02.exe
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio1Clase02.deps.json
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio1Clase02.runtimeconfig.json
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio1Clase02.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio1Clase02.pdb
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio1Clase02.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\refint\Ejercicio1Clase02.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio1Clase02.pdb
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio1Clase02.genruntimeconfig.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_2\Ejercicios\Ejercicio_1\obj\Debug\net10.0\ref\Ejercicio1Clase02.dll
