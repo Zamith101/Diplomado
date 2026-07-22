@@ -1,0 +1,14 @@
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\bin\Debug\net10.0\Eje_2.exe
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\bin\Debug\net10.0\Eje_2.deps.json
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\bin\Debug\net10.0\Eje_2.runtimeconfig.json
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\bin\Debug\net10.0\Eje_2.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\bin\Debug\net10.0\Eje_2.pdb
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\Eje_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\Eje_2.AssemblyInfoInputs.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\Eje_2.AssemblyInfo.cs
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\Eje_2.csproj.CoreCompileInputs.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\Eje_2.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\refint\Eje_2.dll
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\Eje_2.pdb
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\Eje_2.genruntimeconfig.cache
+C:\Users\Zmoscote\OneDrive - Horbath Technologies S.A.S\Documentos\Zamith\Diplomado\Clase_4\Ejercicios\Ejercicio_2\obj\Debug\net10.0\ref\Eje_2.dll
