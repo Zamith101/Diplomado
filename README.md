@@ -1,4 +1,4 @@
 # Diplomado
 
 
-** Zamith Moscote **
+** Zamith Moscote
