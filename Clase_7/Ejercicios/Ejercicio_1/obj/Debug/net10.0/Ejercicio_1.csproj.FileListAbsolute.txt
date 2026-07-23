@@ -1,0 +1,14 @@
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.exe
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.deps.json
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.runtimeconfig.json
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.dll
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\bin\Debug\net10.0\Ejercicio_1.pdb
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.AssemblyInfoInputs.cache
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.AssemblyInfo.cs
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.dll
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\refint\Ejercicio_1.dll
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.pdb
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\Ejercicio_1.genruntimeconfig.cache
+C:\Dev\Diplomado\Clase_7\Ejercicios\Ejercicio_1\obj\Debug\net10.0\ref\Ejercicio_1.dll
