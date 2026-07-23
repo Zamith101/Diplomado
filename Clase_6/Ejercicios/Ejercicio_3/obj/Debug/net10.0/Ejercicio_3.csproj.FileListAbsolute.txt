@@ -1,0 +1,14 @@
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\bin\Debug\net10.0\Ejercicio_3.exe
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\bin\Debug\net10.0\Ejercicio_3.deps.json
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\bin\Debug\net10.0\Ejercicio_3.runtimeconfig.json
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\bin\Debug\net10.0\Ejercicio_3.dll
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\bin\Debug\net10.0\Ejercicio_3.pdb
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\Ejercicio_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\Ejercicio_3.AssemblyInfoInputs.cache
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\Ejercicio_3.AssemblyInfo.cs
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\Ejercicio_3.csproj.CoreCompileInputs.cache
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\Ejercicio_3.dll
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\refint\Ejercicio_3.dll
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\Ejercicio_3.pdb
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\Ejercicio_3.genruntimeconfig.cache
+C:\Dev\Diplomado\Clase_6\Ejercicios\Ejercicio_3\obj\Debug\net10.0\ref\Ejercicio_3.dll
