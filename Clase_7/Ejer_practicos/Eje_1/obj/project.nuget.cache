@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n6Ja+VOhisA=",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Diplomado\\Clase_7\\Ejer_practicos\\Eje_1\\Eje_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zmoscote\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.18\\microsoft.netcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Zmoscote\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.18\\microsoft.windowsdesktop.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Zmoscote\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.18\\microsoft.aspnetcore.app.ref.9.0.18.nupkg.sha512",
+    "C:\\Users\\Zmoscote\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.18\\microsoft.netcore.app.host.win-x64.9.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
