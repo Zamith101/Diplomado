@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "DASD",
+    "Descripcion": "ASDAS",
+    "Prioridad": 3,
+    "Categoria": "Trabajo",
+    "Completada": true,
+    "FechaCreacion": "2026-07-27T17:32:29.8454162-05:00",
+    "TipoTarea": "ConVencimiento",
+    "FechaVencimiento": "2026-07-28T00:00:00"
+  },
+  {
+    "Id": 2,
+    "Titulo": "aSDASD",
+    "Descripcion": "ASDSADASFF",
+    "Prioridad": 0,
+    "Categoria": "DASD",
+    "Completada": false,
+    "FechaCreacion": "2026-07-27T17:34:49.2739373-05:00",
+    "TipoTarea": "Simple",
+    "FechaVencimiento": null
+  }
+]
